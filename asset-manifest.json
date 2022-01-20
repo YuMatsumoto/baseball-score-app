@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/baseball_score_app/static/css/main.073c9b0a.css",
+    "main.js": "/baseball_score_app/static/js/main.c65c60f4.js",
+    "static/js/377.7867bfc8.chunk.js": "/baseball_score_app/static/js/377.7867bfc8.chunk.js",
+    "service-worker.js": "/baseball_score_app/service-worker.js",
+    "static/media/logo.svg": "/baseball_score_app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/baseball_score_app/index.html",
+    "main.073c9b0a.css.map": "/baseball_score_app/static/css/main.073c9b0a.css.map",
+    "main.c65c60f4.js.map": "/baseball_score_app/static/js/main.c65c60f4.js.map",
+    "377.7867bfc8.chunk.js.map": "/baseball_score_app/static/js/377.7867bfc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c65c60f4.js"
+  ]
+}
