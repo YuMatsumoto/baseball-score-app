@@ -1,8 +1,8 @@
 {
-  "name": "baseball_score_app",
+  "name": "baseball-score-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nemutas.github.io/baseball_score_app/",
+  "homepage": "https://nemutas.github.io/baseball-score-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
