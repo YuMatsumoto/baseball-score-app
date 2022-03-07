@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/baseball-score-app/static/css/main.073c9b0a.css",
-    "main.js": "/baseball-score-app/static/js/main.d8062ddf.js",
+    "main.css": "/baseball-score-app/static/css/main.e6c13ad2.css",
+    "main.js": "/baseball-score-app/static/js/main.e41d454f.js",
     "static/js/377.7867bfc8.chunk.js": "/baseball-score-app/static/js/377.7867bfc8.chunk.js",
     "service-worker.js": "/baseball-score-app/service-worker.js",
-    "static/media/logo.svg": "/baseball-score-app/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/baseball-score-app/index.html",
-    "main.073c9b0a.css.map": "/baseball-score-app/static/css/main.073c9b0a.css.map",
-    "main.d8062ddf.js.map": "/baseball-score-app/static/js/main.d8062ddf.js.map",
+    "main.e6c13ad2.css.map": "/baseball-score-app/static/css/main.e6c13ad2.css.map",
+    "main.e41d454f.js.map": "/baseball-score-app/static/js/main.e41d454f.js.map",
     "377.7867bfc8.chunk.js.map": "/baseball-score-app/static/js/377.7867bfc8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d8062ddf.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e41d454f.js"
   ]
 }
