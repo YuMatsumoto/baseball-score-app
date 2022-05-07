@@ -1,6 +1,6 @@
-import { createTheme, ThemeProvider } from "@mui/material";
-import { green, lightBlue, red } from "@mui/material/colors";
-import { Top } from "./views/pages/Top";
+import { createTheme, ThemeProvider } from '@mui/material';
+import { green, lightBlue, red } from '@mui/material/colors';
+import { Top } from './views/components/pages/Top';
 
 const theme = createTheme({
   palette: {
@@ -16,12 +16,10 @@ const theme = createTheme({
   },
 });
 
-const App = () => {
-  return (
-    <ThemeProvider theme={theme}>
-      <Top />
-    </ThemeProvider>
-  );
-};
+const App = () => (
+  <ThemeProvider theme={theme}>
+    <Top />
+  </ThemeProvider>
+);
 
 export default App;
