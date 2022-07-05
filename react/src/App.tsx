@@ -16,12 +16,10 @@ const theme = createTheme({
   },
 });
 
-function App() {
-  return (
-    <ThemeProvider theme={theme}>
-      <Top />
-    </ThemeProvider>
-  );
-}
+const App = () => (
+  <ThemeProvider theme={theme}>
+    <Top />
+  </ThemeProvider>
+);
 
 export default App;
